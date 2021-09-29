@@ -1,0 +1,67 @@
+2021-09-29 15:38:41.873 INFO  BaseTest:55 - Product Selected:
+2021-09-29 15:38:42.999 INFO  BaseTest:67 - Price on Product Detail Page: 15.169
+2021-09-29 15:46:23.735 INFO  BaseTest:61 - Product Selected.
+2021-09-29 15:46:24.852 INFO  BaseTest:73 - Price on Product Detail Page: 2.584
+2021-09-29 15:47:21.350 INFO  BaseTest:61 - Product Selected.
+2021-09-29 15:52:52.419 INFO  BaseTest:64 - Product Selected.
+2021-09-29 15:53:53.187 INFO  BaseTest:64 - Product Selected.
+2021-09-29 15:53:54.313 INFO  BaseTest:76 - Price on Product Detail Page: 3.064
+2021-09-29 16:21:28.050 INFO  BaseClass:80 - By.cssSelector: input[name='k']The page was expected to be clickable and clicked.
+2021-09-29 16:21:30.835 INFO  BaseClass:73 - By.xpath: //*[@id="main-header"]/div[3]/div/div/div/div[2]/form/div/div[2]/button 
+2021-09-29 16:21:32.568 INFO  BaseClass:73 - By.cssSelector: a[class='sc-12aj18f-1 ubwpe'] 
+2021-09-29 16:21:32.568 INFO  BaseClass:62 - Second Page Access Controlled.(https://www.gittigidiyor.com/arama/?k=Bilgisayar&sf=2
+2021-09-29 16:21:32.582 INFO  BaseTest:57 - Product count in page : 0
+2021-09-29 16:21:45.630 INFO  BaseClass:80 - By.cssSelector: input[name='k']The page was expected to be clickable and clicked.
+2021-09-29 16:21:48.952 INFO  BaseClass:73 - By.xpath: //*[@id="main-header"]/div[3]/div/div/div/div[2]/form/div/div[2]/button 
+2021-09-29 16:21:50.698 INFO  BaseClass:73 - By.cssSelector: a[class='sc-12aj18f-1 ubwpe'] 
+2021-09-29 16:21:50.698 INFO  BaseClass:62 - Second Page Access Controlled.(https://www.gittigidiyor.com/arama/?k=Bilgisayar&sf=2
+2021-09-29 16:21:50.713 INFO  BaseTest:57 - Product count in page : 0
+2021-09-29 16:22:08.143 INFO  BaseClass:80 - By.cssSelector: input[name='k']The page was expected to be clickable and clicked.
+2021-09-29 16:22:10.131 INFO  BaseClass:73 - By.xpath: //*[@id="main-header"]/div[3]/div/div/div/div[2]/form/div/div[2]/button 
+2021-09-29 16:22:27.183 INFO  BaseClass:80 - By.cssSelector: input[name='k']The page was expected to be clickable and clicked.
+2021-09-29 16:22:30.385 INFO  BaseClass:73 - By.xpath: //*[@id="main-header"]/div[3]/div/div/div/div[2]/form/div/div[2]/button 
+2021-09-29 16:22:32.592 INFO  BaseClass:73 - By.cssSelector: a[class='sc-12aj18f-1 ubwpe'] 
+2021-09-29 16:22:32.592 INFO  BaseClass:62 - Second Page Access Controlled.(https://www.gittigidiyor.com/arama/?k=Bilgisayar&sf=2
+2021-09-29 16:22:32.609 INFO  BaseTest:57 - Product count in page : 32
+2021-09-29 16:22:32.610 INFO  BaseTest:60 - Random Choosen Number:12
+2021-09-29 16:22:35.948 INFO  BaseClass:73 - By.xpath: (//div[@class='sc-533kbx-0 sc-1v2q8t1-0 iCRwxx ixSZpI sc-1n49x8z-12 bhlHZl'])[12] 
+2021-09-29 16:22:35.948 INFO  BaseTest:64 - Product Selected. Product Number : 12
+2021-09-29 16:22:37.067 INFO  BaseTest:76 - Price on Product Detail Page: 6.459
+2021-09-29 16:22:37.265 INFO  BaseClass:73 - By.cssSelector: div[class='gg-ui-button gg-ui-btn-secondary policy-alert-v2-buttons'] 
+2021-09-29 16:22:46.411 INFO  BaseClass:73 - By.cssSelector: button[id='add-to-basket'] 
+2021-09-29 16:22:52.419 INFO  BaseTest:89 - Product added to cart.
+2021-09-29 16:22:56.494 INFO  BaseClass:73 - By.name: cart 
+2021-09-29 16:22:59.539 INFO  BaseTest:101 - The accuracy of the price on the product page and the price of the product in the basket was compared.
+2021-09-29 16:22:59.632 INFO  BaseTest:110 - Number of Selected Pieces : 2
+2021-09-29 16:23:02.676 INFO  BaseTest:119 - Price of the product in the basket : 12.918
+2021-09-29 16:23:02.677 INFO  BaseTest:122 - Price comparison is true
+2021-09-29 16:23:02.760 INFO  BaseClass:73 - By.xpath: //a[contains(@class,'btn-delete btn-update-item')][1] 
+2021-09-29 16:23:02.760 INFO  BaseClass:67 - Cart is empty. Text Checked//h2[contains(.,'Sepetinizde ürün bulunmamaktadır.')]
+2021-09-29 16:23:40.273 INFO  BaseClass:49 - Homepage is : https://www.gittigidiyor.com/
+2021-09-29 16:23:40.346 INFO  BaseClass:73 - By.cssSelector: div[data-cy='header-user-menu'] 
+2021-09-29 16:23:46.526 INFO  BaseClass:73 - By.cssSelector: a[data-cy='header-login-button'] 
+2021-09-29 16:23:49.615 INFO  BaseClass:80 - By.cssSelector: input[name='kullanici']The page was expected to be clickable and clicked.
+2021-09-29 16:23:52.705 INFO  BaseClass:80 - By.name: sifreThe page was expected to be clickable and clicked.
+2021-09-29 16:23:57.170 INFO  BaseClass:73 - By.cssSelector: input[id='gg-login-enter'] 
+2021-09-29 16:24:01.424 INFO  BaseClass:80 - By.cssSelector: input[name='k']The page was expected to be clickable and clicked.
+2021-09-29 16:24:03.143 INFO  BaseClass:55 - Access Controlled. /html/body/div[1]/header/div[3]/div/div/div/div[3]/div/div[1]/div
+2021-09-29 16:24:04.372 INFO  BaseClass:73 - By.xpath: //*[@id="main-header"]/div[3]/div/div/div/div[2]/form/div/div[2]/button 
+2021-09-29 16:24:06.686 INFO  BaseClass:73 - By.cssSelector: a[class='sc-12aj18f-1 ubwpe'] 
+2021-09-29 16:24:06.687 INFO  BaseClass:62 - Second Page Access Controlled.(https://www.gittigidiyor.com/arama/?k=Bilgisayar&sf=2
+2021-09-29 16:24:06.907 INFO  BaseTest:57 - Product count in page : 32
+2021-09-29 16:24:06.907 INFO  BaseTest:60 - Random Choosen Number:16
+2021-09-29 16:24:09.256 INFO  BaseClass:73 - By.xpath: (//div[@class='sc-533kbx-0 sc-1v2q8t1-0 iCRwxx ixSZpI sc-1n49x8z-12 bhlHZl'])[16] 
+2021-09-29 16:24:09.257 INFO  BaseTest:64 - Product Selected. Product Number : 16
+2021-09-29 16:24:10.377 INFO  BaseTest:76 - Price on Product Detail Page: 1.638
+2021-09-29 16:24:10.551 INFO  BaseClass:73 - By.cssSelector: div[class='gg-ui-button gg-ui-btn-secondary policy-alert-v2-buttons'] 
+2021-09-29 16:24:19.724 INFO  BaseClass:73 - By.cssSelector: button[id='add-to-basket'] 
+2021-09-29 16:24:25.729 INFO  BaseTest:89 - Product added to cart.
+2021-09-29 16:24:27.578 INFO  BaseClass:73 - By.name: cart 
+2021-09-29 16:24:30.625 INFO  BaseTest:101 - The accuracy of the price on the product page and the price of the product in the basket was compared.
+2021-09-29 16:24:30.715 INFO  BaseTest:110 - Number of Selected Pieces : 2
+2021-09-29 16:24:33.758 INFO  BaseTest:119 - Price of the product in the basket : 3.276
+2021-09-29 16:24:33.758 INFO  BaseTest:122 - Price comparison is true
+2021-09-29 16:24:33.827 INFO  BaseClass:73 - By.xpath: //a[contains(@class,'btn-delete btn-update-item')][1] 
+2021-09-29 16:24:33.827 INFO  BaseClass:67 - Cart is empty. Text Checked//h2[contains(.,'Sepetinizde ürün bulunmamaktadır.')]
+2021-09-29 16:33:08.609 INFO  BaseClass:43 - Homepage is : https://www.gittigidiyor.com/
+
