@@ -13,4 +13,3 @@ Selenium automation project for gittigidiyor.com
 - It is verified that the number of products is 2 by increasing the number.
 - The product is deleted from the basket and it is checked that the basket is empty.
 
-
