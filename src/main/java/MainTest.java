@@ -4,7 +4,7 @@ public class MainTest extends BaseTest{
     @Test
     public void controlAndTest() throws InterruptedException{
         controlTitle();
-        controlLogin("hakanydin@gmail.com","5249070As");
+        controlLogin("",""); //enter mail and password
         contolSearch("Bilgisayar");
         gotoPageandControl();
         controlPrdct();
